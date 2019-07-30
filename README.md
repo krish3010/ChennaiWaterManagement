@@ -10,3 +10,6 @@ Inspiration The idea is to see if we can use this dataset to
     Visualize the water need / usage of the city 
     Identify whether the water sources availability will be able to meet the needs till the subsequent monsoon? 
     How bad is the current water crisis compared to previous years?
+
+
+Here is the main data is available. https://www.kaggle.com/sudalairajkumar/chennai-water-management
